@@ -2,7 +2,8 @@
 ## DashBoard-->
 - <a href="https://github.com/pawanraisadhar/Mobile_Sale_Dashboard/blob/main/Mobile%20Sale%20Data.pbix">DashBoard Viwe</a> 
 - DashBoard image<a href="https://github.com/pawanraisadhar/Mobile_Sale_Dashboard/blob/main/Dashboard%20image"> DashBoard image</a>
-(![Mobile Sale-DashBoard]((https://github.com/pawanraisadhar/Mobile_Sale_Dashboard/blob/main/Dashboard%20image))
+(![Mobile Sale-DashBoard](<img width="1320" height="744" alt="Screenshot 2026-02-23 175440" src="https://github.com/user-attachments/assets/67ac78be-5813-4e63-8195-61494433cd2d" />
+)
 
 Mobile Sale Dashboard
 
